@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38f9beff-a8a7-47ed-90c8-62f6d64be79e" name="Changes" comment="Bye" />
+    <list default="true" id="38f9beff-a8a7-47ed-90c8-62f6d64be79e" name="Changes" comment="Bye">
+      <change beforePath="$PROJECT_DIR$/fayl2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fayl2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "master"
+=======
+    "git-widget-placeholder": "76df1763"
+>>>>>>> master4
   }
 }]]></component>
   <component name="SharedIndexes">
